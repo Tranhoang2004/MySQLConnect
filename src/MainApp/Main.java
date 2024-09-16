@@ -1,8 +1,8 @@
-package Hoangdev;
+package MainApp;
 
 import java.sql.DriverManager;
 
-public class MainApp {
+public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		final String DB_URL = "jdbc:mysql://localhost:3306/shop";
